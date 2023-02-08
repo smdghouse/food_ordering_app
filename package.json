@@ -1,0 +1,25 @@
+{
+  "name": "food_ordering-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.2",
+    "react-redux": "^8.0.5"
+  },
+  "devDependencies": {
+    "buffer": "^5.7.1",
+    "parcel": "^2.8.3",
+    "postcss": "^8.4.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
+    "react-router-dom": "^6.8.0",
+    "tailwindcss": "^3.2.4"
+  }
+}
